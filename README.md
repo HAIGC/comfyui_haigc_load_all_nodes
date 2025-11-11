@@ -51,6 +51,7 @@ git clone <repo-url> haigc_load_all_nodes
 [QuickLoadByName(节点包名称="无", 删除预设="workflow")]
 ```
 删除所有以 "workflow" 开头的旧工作流文件
+刷新网页即可在工作流列表显示加载的节点包工作流
 
 ## 目录结构
 - `__init__.py`：节点注册入口，仅导出 `QuickLoadByName`
