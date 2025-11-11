@@ -1,0 +1,10 @@
+{
+  "workflow": {
+    "prefix": "workflow",
+    "keyword": ""
+  },
+  "test": {
+    "prefix": "",
+    "keyword": ""
+  }
+}
