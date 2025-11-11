@@ -50,7 +50,7 @@ git clone <repo-url> haigc_load_all_nodes
 ```
 [QuickLoadByName(节点包名称="无", 删除预设="workflow")]
 ```
-# 删除所有以 "workflow" 开头的旧工作流文件
+删除所有以 "workflow" 开头的旧工作流文件
 # 刷新网页即可在工作流列表显示加载的节点包工作流
 
 ## 目录结构
@@ -59,4 +59,22 @@ git clone <repo-url> haigc_load_all_nodes
 - `workflow_generator.py`：内部工作流构建逻辑
 - `node_package_loader.py`：扫描节点包的辅助工具
 - `cleanup_presets.json`：清理预设配置文件
+
+---
+
+### 🌟 推荐工作流云平台 | Recommended Cloud Platform
+
+#### 🇨🇳 中文网站 | Chinese Website
+**ComfyUI 工作流云平台推荐，点击链接注册领取 1000 算力积分**  
+**ComfyUI Workflow Cloud Platform - Register to Get 1000 Computing Points**
+
+👉 [立即注册 | Register Now](https://www.runninghub.cn/user-center/1887871050510716930/userPost?inviteCode=rh-v1127)
+
+#### 🌍 国际网站 | International Website
+**国际版云平台，点击链接注册领取 1000 算力积分**  
+**International Cloud Platform - Register to Get 1000 Computing Points**
+
+👉 [Register Now | 立即注册](https://www.runninghub.ai/user-center/1939305513756864513/userPost?inviteCode=rh-v1127)
+
+---
 
